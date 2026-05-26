@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Files
+202603-case-study-data-analyst-growth.pdf
+202603-case-study-data-analyst-growth.xlsx
