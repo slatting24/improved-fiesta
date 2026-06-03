@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # Files
-202603-case-study-data-analyst-growth.pdf
-202603-case-study-data-analyst-growth.xlsx
+*.pdf
+*.xlsx
 *.png
 *.key
