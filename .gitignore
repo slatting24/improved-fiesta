@@ -12,3 +12,5 @@ wheels/
 # Files
 202603-case-study-data-analyst-growth.pdf
 202603-case-study-data-analyst-growth.xlsx
+*.png
+*.key
